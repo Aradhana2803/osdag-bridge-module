@@ -1,0 +1,153 @@
+State,District,Wind Speed (m/s),Seismic Zone,Zone Factor,Max Temperature (°C),Min Temperature (°C)
+Andaman and Nicobar Islands,Port Blair,44,V,0.36,36.4,14.6
+Andaman and Nicobar Islands,Car Nicobar,44,V,0.36,38.1,10.9
+Andaman and Nicobar Islands,Hut Bay,44,V,0.36,39.4,0.2
+Andhra Pradesh,Visakhapatnam,50,II,0.1,45.4,10.5
+Andhra Pradesh,Vijayawada,50,III,0.16,48.8,8.5
+Andhra Pradesh,Tirupati,47,II,0.1,45.2,12.9
+Andhra Pradesh,Guntur,50,II,0.1,47.4,11.1
+Andhra Pradesh,Kakinada,50,II,0.1,47.2,12.0
+Andhra Pradesh,Nellore,50,III,0.16,46.7,11.1
+Andhra Pradesh,Kurnool,39,II,0.1,45.6,6.7
+Andhra Pradesh,Anantapur,39,II,0.1,44.1,9.4
+Arunachal Pradesh,Itanagar,39,V,0.36,38.8,6.0
+Arunachal Pradesh,Pasighat,39,V,0.36,38.8,6.0
+Arunachal Pradesh,Tawang,39,V,0.36,29.0,-5.0
+Assam,Guwahati,50,V,0.36,40.3,3.0
+Assam,Dibrugarh,39,V,0.36,39.8,1.0
+Assam,Silchar,39,V,0.36,39.4,5.0
+Assam,Tezpur,39,V,0.36,45.7,5.6
+Assam,Jorhat,39,V,0.36,39.0,2.7
+Bihar,Patna,47,IV,0.24,46.6,1.4
+Bihar,Gaya,39,III,0.16,49.0,1.2
+Bihar,Muzaffarpur,47,IV,0.24,44.5,2.2
+Bihar,Bhagalpur,47,IV,0.24,46.6,3.8
+Bihar,Darbhanga,55,V,0.36,44.1,0.0
+Chandigarh,Chandigarh,47,IV,0.24,47.8,-1.3
+Chhattisgarh,Raipur,39,II,0.1,47.9,3.9
+Chhattisgarh,Bilaspur,39,II,0.1,47.0,6.6
+Chhattisgarh,Bhilai,39,II,0.1,47.0,6.6
+Chhattisgarh,Jagdalpur,39,II,0.1,46.1,2.8
+Dadra and Nagar Haveli and Daman and Diu,Silvassa,44,III,0.16,39.0,15.0
+Dadra and Nagar Haveli and Daman and Diu,Daman,44,III,0.16,38.0,16.0
+Dadra and Nagar Haveli and Daman and Diu,Diu,44,III,0.16,44.0,5.0
+Delhi,New Delhi,47,IV,0.24,48.4,-2.2
+Delhi,North Delhi,47,IV,0.24,48.4,-2.2
+Delhi,South Delhi,47,IV,0.24,48.4,-2.2
+Delhi,East Delhi,47,IV,0.24,48.4,-2.2
+Delhi,West Delhi,47,IV,0.24,48.4,-2.2
+Goa,Panaji,39,III,0.16,39.8,3.4
+Goa,Margao,39,III,0.16,38.4,12.2
+Goa,Vasco da Gama,39,III,0.16,38.2,13.6
+Gujarat,Ahmedabad,39,III,0.16,47.8,2.2
+Gujarat,Surat,44,III,0.16,45.6,4.4
+Gujarat,Vadodara,44,III,0.16,46.7,-1.1
+Gujarat,Rajkot,39,III,0.16,47.9,-0.6
+Gujarat,Bhuj,50,V,0.36,47.8,-0.2
+Gujarat,Bhavnagar,44,III,0.16,47.3,0.6
+Gujarat,Jamnagar,44,III,0.16,44.6,0.4
+Haryana,Gurugram,47,IV,0.24,49.0,-0.4
+Haryana,Faridabad,47,IV,0.24,49.0,-0.4
+Haryana,Panipat,47,IV,0.24,47.2,-0.5
+Haryana,Ambala,47,IV,0.24,47.8,-1.3
+Haryana,Hisar,47,IV,0.24,48.8,-3.9
+Haryana,Karnal,47,IV,0.24,49.0,-0.4
+Himachal Pradesh,Shimla,39,IV,0.24,32.4,-12.2
+Himachal Pradesh,Manali,39,V,0.36,35.0,-11.6
+Himachal Pradesh,Dharamshala,47,V,0.36,42.7,-1.9
+Himachal Pradesh,Kullu,39,V,0.36,40.0,-5.2
+Himachal Pradesh,Mandi,39,V,0.36,42.1,-2.7
+Jammu and Kashmir,Srinagar,39,V,0.36,38.3,-20.0
+Jammu and Kashmir,Jammu,47,IV,0.24,47.4,0.6
+Jammu and Kashmir,Anantnag,39,V,0.36,35.7,-16.7
+Jammu and Kashmir,Baramulla,39,V,0.36,37.6,-15.7
+Jharkhand,Ranchi,39,II,0.1,43.4,0.6
+Jharkhand,Jamshedpur,47,II,0.1,47.7,3.9
+Jharkhand,Dhanbad,47,II,0.1,48.5,1.9
+Jharkhand,Bokaro,47,III,0.16,46.7,4.4
+Karnataka,Bangalore,33,II,0.1,38.9,7.8
+Karnataka,Mysore,33,II,0.1,39.4,8.6
+Karnataka,Mangalore,39,III,0.16,39.8,15.9
+Karnataka,Hubli,39,III,0.16,41.9,6.7
+Karnataka,Belgaum,39,III,0.16,41.9,6.7
+Karnataka,Gulbarga,39,II,0.1,46.1,5.6
+Kerala,Thiruvananthapuram,39,III,0.16,38.3,16.0
+Kerala,Kochi,39,III,0.16,36.5,16.3
+Kerala,Kozhikode,39,III,0.16,38.1,13.8
+Kerala,Thrissur,39,III,0.16,38.5,16.0
+Kerala,Alappuzha,39,III,0.16,39.9,13.8
+Kerala,Palakkad,39,III,0.16,41.8,14.0
+Ladakh,Leh,39,V,0.36,23.0,-15.0
+Ladakh,Kargil,39,V,0.36,30.0,-18.0
+Lakshadweep,Kavaratti,39,III,0.16,38.0,22.1
+Lakshadweep,Agatti,39,III,0.16,38.0,22.1
+Lakshadweep,Minicoy,39,III,0.16,36.7,16.7
+Madhya Pradesh,Bhopal,39,II,0.1,46.0,0.6
+Madhya Pradesh,Indore,39,II,0.1,46.0,-2.8
+Madhya Pradesh,Gwalior,47,II,0.1,48.3,-1.1
+Madhya Pradesh,Jabalpur,47,III,0.16,46.7,0.0
+Madhya Pradesh,Ujjain,39,II,0.1,46.0,0.0
+Madhya Pradesh,Sagar,39,II,0.1,46.4,1.1
+Maharashtra,Mumbai,44,III,0.16,42.2,7.4
+Maharashtra,Pune,39,III,0.16,43.3,1.7
+Maharashtra,Nagpur,44,II,0.1,47.8,3.9
+Maharashtra,Nashik,39,III,0.16,43.9,0.4
+Maharashtra,Aurangabad,39,II,0.1,43.6,1.2
+Maharashtra,Thane,44,III,0.16,42.2,7.4
+Maharashtra,Kolhapur,39,III,0.16,42.3,8.6
+Maharashtra,Solapur,39,III,0.16,46.0,4.4
+Manipur,Imphal,47,V,0.36,36.1,-2.7
+Meghalaya,Shillong,39,V,0.36,30.2,-3.3
+Meghalaya,Cherrapunji,39,V,0.36,31.1,-1.0
+Mizoram,Aizawl,39,V,0.36,35.5,6.1
+Nagaland,Kohima,44,V,0.36,27.0,4.0
+Nagaland,Dimapur,44,V,0.36,35.0,5.0
+Odisha,Bhubaneswar,50,III,0.16,46.5,8.6
+Odisha,Cuttack,50,III,0.16,47.7,5.8
+Odisha,Puri,50,III,0.16,44.2,7.5
+Odisha,Rourkela,39,II,0.1,49.0,3.6
+Odisha,Balasore,50,III,0.16,46.7,6.7
+Puducherry,Puducherry,50,II,0.1,45.5,15.1
+Puducherry,Karaikal,50,II,0.1,42.0,17.8
+Punjab,Chandigarh,47,IV,0.24,47.8,-1.3
+Punjab,Ludhiana,47,IV,0.24,46.6,-1.7
+Punjab,Amritsar,47,IV,0.24,47.8,-3.6
+Punjab,Jalandhar,47,IV,0.24,47.7,0.0
+Punjab,Patiala,47,III,0.16,47.0,-0.9
+Punjab,Bathinda,47,III,0.16,48.0,-2.0
+Rajasthan,Jaipur,47,II,0.1,49.0,-2.2
+Rajasthan,Jodhpur,47,II,0.1,49.9,-1.7
+Rajasthan,Udaipur,47,II,0.1,46.4,-1.3
+Rajasthan,Bikaner,47,III,0.16,49.4,-4.0
+Rajasthan,Ajmer,47,II,0.1,47.4,-2.8
+Rajasthan,Kota,47,II,0.1,48.5,1.8
+Sikkim,Gangtok,47,IV,0.24,29.9,-2.2
+Tamil Nadu,Chennai,50,III,0.16,49.1,15.7
+Tamil Nadu,Coimbatore,39,III,0.16,42.6,12.2
+Tamil Nadu,Madurai,39,II,0.1,44.5,10.5
+Tamil Nadu,Tiruchirappalli,47,II,0.1,43.9,13.9
+Tamil Nadu,Salem,39,III,0.16,42.8,11.1
+Tamil Nadu,Vellore,39,III,0.16,45.0,8.4
+Telangana,Hyderabad,44,II,0.1,45.5,6.1
+Telangana,Warangal,44,II,0.1,47.8,8.3
+Telangana,Nizamabad,44,II,0.1,47.3,4.4
+Telangana,Khammam,44,II,0.1,47.2,9.4
+Tripura,Agartala,39,V,0.36,42.2,2.0
+Uttar Pradesh,Lucknow,47,III,0.16,47.7,-1.0
+Uttar Pradesh,Kanpur,47,III,0.16,47.3,0.4
+Uttar Pradesh,Agra,47,III,0.16,48.6,-2.2
+Uttar Pradesh,Varanasi,47,III,0.16,47.2,1.0
+Uttar Pradesh,Noida,47,IV,0.24,48.4,-2.2
+Uttar Pradesh,Gorakhpur,47,IV,0.24,49.4,1.7
+Uttar Pradesh,Allahabad,47,II,0.1,48.8,-0.7
+Uttar Pradesh,Bareilly,47,III,0.16,47.3,-1.3
+Uttarakhand,Dehradun,47,IV,0.24,43.9,-1.1
+Uttarakhand,Haridwar,39,IV,0.24,47.4,-2.2
+Uttarakhand,Nainital,47,IV,0.24,31.5,-7.8
+Uttarakhand,Roorkee,39,IV,0.24,47.4,-2.2
+West Bengal,Kolkata,50,III,0.16,43.9,6.7
+West Bengal,Howrah,50,III,0.16,43.9,6.7
+West Bengal,Siliguri,47,IV,0.24,40.9,2.2
+West Bengal,Durgapur,47,III,0.16,46.2,0.8
+West Bengal,Asansol,47,III,0.16,46.2,0.8
+West Bengal,Darjeeling,47,IV,0.24,28.5,-7.2
