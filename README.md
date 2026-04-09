@@ -1,6 +1,6 @@
 # Osdag Bridge Module — Web UI
 
-> OSDAG Screening Task · Bridge Module UI Development  
+> OSDAG Screening Task · Bridge Module UI Development by Aradhana Singh
 > React + Django · Dark/Light Theme · Full IRC 6 Database (Option A +20%)
 
 ---
